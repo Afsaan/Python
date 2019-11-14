@@ -24,3 +24,5 @@ print(even(10))
 a = lambda n: n%2==0
 
 print(a(10))
+
+
