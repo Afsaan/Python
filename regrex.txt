@@ -1,0 +1,16 @@
+.  : any character except new line
+\d : digit(0-9)
+\D : not a digit(0-9)
+\w : Word character(a-z , A-Z , 0-9, _)
+\W : not a word character(a-z , A-Z , 0-9, _)
+\s : whitespace (space , tab, newline)
+\S : not whitespace (space , tab , newline)
+
+
+\b : word boundary
+\B : not a word boundary
+^ : beginning of a string 
+$ : end of a string
+
+
+meta character : . ^ $ * + ? {} [] \ | ()
